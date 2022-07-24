@@ -2,7 +2,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 Pytorch Implementation of ICML 2022 
 
-### [Code Under Development] [We will be releasing scripts to run our techniques efficiently for various architectures and dataset.]
+#### [Code Under Development] 
+We will be releasing scripts to run our techniques efficiently for various architectures and dataset.
 
 ## Installation
 We recommend users to use `conda` to install the running environment. The following dependencies are required:
